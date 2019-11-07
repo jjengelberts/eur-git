@@ -4,3 +4,12 @@ This is the introduction to my article.
 === Theory ===
 This is the beginning of the theory section.
 
+=== Results ===
+This is the start of the results section. 
+
+Table 1
+-------
+1  |  1
+2  |  2
+
+
