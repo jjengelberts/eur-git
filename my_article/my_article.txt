@@ -1,2 +1,6 @@
 === Introduction ===
 This is the introduction to my article.
+
+=== Theory ===
+This is the beginning of the theory section.
+
