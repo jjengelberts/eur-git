@@ -5,5 +5,11 @@ This is the introduction to my article.
 This is the beginning of the theory section.
 
 === References ===
-[1] My name is Brilly.
+This makes the paper much better.
 
+Nice comics about practicing with git at [1] and [2].
+
+=== References ===
+[1] My name is Brilly.
+[2] https://xkcd.com/1597/
+[3] https://xkcd.com/1296/
