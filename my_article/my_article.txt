@@ -4,3 +4,9 @@ This is the introduction to my article.
 === Theory ===
 This is the beginning of the theory section.
 
+Nice comics about practicing with git at [1] and [2].
+
+=== References ===
+
+[1] https://xkcd.com/1597/
+[2] https://xkcd.com/1296/
